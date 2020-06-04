@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationApp_Design3</string>
+
+
+<string-array name="navigation_drawer_items_array">
+<item>Connect</item>
+<item>Fixtures</item>
+<item>Table</item>
+</string-array>
+
+</resources>
